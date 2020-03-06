@@ -1,4 +1,4 @@
-# this is the change! # teest2
+# this is the change!
 groups:
 - name: alert.rules
   rules:
