@@ -5,6 +5,7 @@ on:
       - master
     paths:
       - 'prometheus/rules/*.yml'
+      - 'prometheus/config/*.yml'
 jobs:
   promtool:
     name: 'Promtool'
